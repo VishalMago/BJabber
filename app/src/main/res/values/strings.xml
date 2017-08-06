@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">B JABBER</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title"> Performant </string>
+    <string name="slide_1_desc">Chat with your friends around quickly and anywhere!</string>
+
+    <string name="slide_2_title">Instant Connection</string>
+    <string name="slide_2_desc"> Scan and connect to the bluetooth devices in an instant!</string>
+
+    <string name="slide_3_title"> Feels Native</string>
+    <string name="slide_3_desc">Consistent UI to interact with the app!</string>
+
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+
+    <string name="text_view_paired">Paired Devices</string>
+    <string name="text_scan_devices">Scan Devices</string>
+    <string name="text_stop_scan">Scan Devices</string>
+
+    <string name="text_list_paired_devices">Paired Devices</string>
+
+    <string name="text_pair">Pair</string>
+</resources>
